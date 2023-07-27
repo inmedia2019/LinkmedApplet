@@ -1,0 +1,11 @@
+{
+  "titleNView": false,
+  "navigationBarTitleText": "专家列表",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "fo-tter": "/components/footer",
+    "bo-view": "/components/botview",
+    "uni-section": "/components/uni-section/uni-section",
+    "no-ne": "/components/none"
+  }
+}

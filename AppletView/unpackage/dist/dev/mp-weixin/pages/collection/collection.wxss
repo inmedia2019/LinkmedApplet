@@ -1,0 +1,19 @@
+
+.colltop {
+	width: 100%;
+	top: 0px;
+	left: 0px;
+}
+.jz {
+	background: rgba(255, 255, 255, 0.2);
+	padding: 5px 10px;
+	border-radius: 5px;
+}
+.scroll-view {
+	top: 115px;
+	left: 0px;
+	width: 100%;
+	bottom: 0px;
+}
+.listli{height: 360rpx;}
+

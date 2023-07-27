@@ -1,0 +1,205 @@
+
+.banne {
+	height: 418rpx;
+}
+.bannerBox {
+	height: 380rpx;
+	width: calc(100% + 34px);
+	margin-left: -17px;
+}
+.bannerBoxhezi {
+	width: calc(100% - 34px);
+	margin: 0px auto;
+	height: 360rpx;
+	border-radius: 5px;
+	border: #fff solid 2px;
+}
+.zbz {
+	padding: 4px 8px 4px 8px;
+	top: 15px;
+	right: 0px;
+	background: rgba(50, 54, 67, 0.45);
+	border-radius: 5px 0px 0px 5px;
+}
+.zbz.on {
+	background: rgba(185, 39, 39, 0.45);
+	color: #fff;
+}
+.zbzdian {
+	background: rgba(185, 39, 39, 1);
+	width: 6px;
+	height: 6px;
+	border-radius: 5px;
+}
+.zbzdian.on {
+	background: #C0C0C0;
+}
+.navBox {
+	height: 170px;
+}
+.navtor>view {
+	float: left;
+	width: 25%;
+	margin-bottom: 8px;
+}
+.navtor>view .shadow {
+	width: 57px;
+	height: 57px;
+	background: #fff;
+	border-radius: 5px;
+}
+.Department {
+	height: 54px;
+	width: calc(100% + 17px);
+	white-space: nowrap;
+}
+.Departmentli {
+	display: inline-block;
+	border-radius: 8px;
+	overflow: hidden;
+	margin-left: 2px;
+	margin-right: 13px;
+	width: 126px;
+	height: 54px;
+}
+.Departmentlititle {
+	top: 10px;
+	left: 10px;
+}
+.Departmentliimg {
+	bottom: 5px;
+	right: 5px;
+	width: 38px;
+}
+.Department .Departmentli:nth-child(3n-2) {
+	background: -webkit-linear-gradient(315deg, rgba(202, 2, 27, 1) 0%, rgba(255, 94, 100, 1) 100%);
+	background: linear-gradient(135deg, rgba(202, 2, 27, 1) 0%, rgba(255, 94, 100, 1) 100%);
+}
+.Department .Departmentli:nth-child(3n-1) {
+	background: -webkit-linear-gradient(315deg, rgba(204, 0, 153, 1) 0%, rgba(226, 127, 232, 1) 100%);
+	background: linear-gradient(135deg, rgba(204, 0, 153, 1) 0%, rgba(226, 127, 232, 1) 100%);
+}
+.Department .Departmentli:nth-child(3n) {
+	background: -webkit-linear-gradient(315deg, rgba(2, 2, 153, 1) 0%, rgba(107, 107, 228, 1) 100%);
+	background: linear-gradient(135deg, rgba(2, 2, 153, 1) 0%, rgba(107, 107, 228, 1) 100%);
+}
+.calendar {
+	height: 35px;
+	width: calc(100% + 17px);
+	white-space: nowrap;
+}
+.calendarview {
+	width: -webkit-max-content;
+	width: max-content;
+}
+.calendarli {
+	display: inline-block;
+	border-radius: 5px;
+	overflow: hidden;
+	margin-left: 2px;
+	margin-right: 13px;
+	width: 60px;
+	box-shadow: 0px 3px 5px rgba(0, 0, 0, 0);
+}
+.calendarli.on {
+	width: 155px;
+	box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
+}
+.calendarlizk {
+	width: 155px;
+}
+.calendarlizk>view:nth-child(1) {
+	width: 60px;
+	height: 24px;
+}
+.calendarlizk>view:nth-child(2) {
+	background: #fff;
+	width: 95px;
+	height: 24px;
+}
+.calendar .calendarli:nth-child(3n-2) .calendarlizk>view:nth-child(1) {
+	background: rgba(202, 2, 27, 0.15);
+}
+.calendar .calendarli:nth-child(3n-1) .calendarlizk>view:nth-child(1) {
+	background: rgba(2, 1, 147, 0.15);
+}
+.calendar .calendarli:nth-child(3n) .calendarlizk>view:nth-child(1) {
+	background: rgba(187, 38, 149, 0.15);
+}
+.calendar .calendarli.on:nth-child(3n-1) .calendarlizk>view:nth-child(1) {
+	background: rgba(202, 2, 27, 1);
+}
+.calendar .calendarli.on:nth-child(3n-2) .calendarlizk>view:nth-child(1) {
+	background: rgba(2, 1, 147, 1);
+}
+.calendar .calendarli.on:nth-child(3n) .calendarlizk>view:nth-child(1) {
+	background: rgba(187, 38, 149, 1);
+}
+.caleswBox {
+	width: calc(100% + 34px);
+	margin-left: -17px;
+	height: 370rpx;
+}
+.caleswBox .caleswBoxhezi {
+	width: calc(100% - 40px);
+	margin: 0px auto;
+	height: 350rpx;
+	border-radius: 5px;
+	border: #fff solid 2px;
+}
+.dot {
+	width: 4px;
+	height: 4px;
+	margin: 0 4px;
+	border-radius: 3px;
+	background-color: #9B9B9B;
+}
+.dot.active {
+	width: 10px;
+	background-color: #BB2695;
+}
+.hotlistscroll {
+	height: 175px;
+	width: calc(100% + 17px);
+}
+.hotlist {
+	width: -webkit-max-content;
+	width: max-content;
+}
+.hotlist>view {
+	width: 157px;
+	border-radius: 5px;
+	margin: 0px 4px;
+}
+.hotlistimg {
+	width: 100%;
+	height: 86px;
+	border-radius: 5px 5px 0px 0px;
+	overflow: hidden;
+}
+.hotlistimg view {
+	background: rgba(0, 0, 0, 0.6);
+}
+.hotlistwb {
+	padding: 7px 10px;
+}
+.hotlistwbtitle {
+	height: 38px;
+	margin-bottom: 7px;
+}
+.hot {
+	bottom: -11px;
+	right: 12px;
+}
+.tw>view {
+	width: calc(50% - 20px);
+	float: left;
+	margin-left: 10px;
+
+	margin-bottom: 15px;
+}
+.tw .bannerBoxhezis {
+	height: 156rpx;
+	border: #fff solid 1px;
+}
+

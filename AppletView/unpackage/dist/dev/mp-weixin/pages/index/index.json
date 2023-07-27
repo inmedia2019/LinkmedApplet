@@ -1,0 +1,8 @@
+{
+  "titleNView": false,
+  "navigationBarTitleText": "领医迈",
+  "usingComponents": {
+    "fo-tter": "/components/footer",
+    "bo-view": "/components/botview"
+  }
+}

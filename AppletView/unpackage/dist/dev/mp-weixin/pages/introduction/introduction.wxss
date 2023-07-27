@@ -1,0 +1,27 @@
+
+.intrbody {
+	border: #DEDDDE solid 1px;
+	border-radius: 5px;
+}
+.hot {
+	width: 54px;
+	height: 18px;
+	background: #BB2695;
+	border-radius: 5px;
+	top: 17px;
+	right: -7px;
+}
+.intrimg {
+	width: 80px;
+	height: 80px;
+	border-radius: 5px;
+}
+.intrname {
+	width: calc(100% - 95px);
+	margin-left: 15px;
+}
+.intrnameyy {
+	border-radius: 5px;
+	padding: 3px 10px;
+}
+

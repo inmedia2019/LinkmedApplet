@@ -1,0 +1,7 @@
+{
+  "titleNView": false,
+  "navigationBarTitleText": "意见反馈",
+  "usingComponents": {
+    "re-turn": "/components/return/return"
+  }
+}

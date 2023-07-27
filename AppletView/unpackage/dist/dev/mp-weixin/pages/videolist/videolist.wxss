@@ -1,0 +1,8 @@
+
+.videoscrol{ bottom: 0px; left: 0px; right: 0px; top: 185px;
+}
+.videolistsx {}
+.videolistsx view.on {
+	color: #000;
+}
+

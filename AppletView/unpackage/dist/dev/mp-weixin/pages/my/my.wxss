@@ -1,0 +1,48 @@
+
+.myk {
+	border-radius: 5px;
+}
+.mykimg {
+	width: 60px;
+	height: 60px;
+	border-radius: 60px;
+	margin-right: 15px;
+}
+.myknr {
+	width: calc(100% - 75px);
+}
+.yym {
+	padding: 2px 10px;
+	border-radius: 50px;
+}
+.tz {
+	width: calc(100% - 26px);
+}
+.tz text {
+	padding: 0px 10px;
+}
+.mynav {}
+.mynav>view {
+	width: 25%;
+}
+.mynavimg {
+	height: 32px;
+}
+.mylist {}
+.mylist>view {
+	border-bottom: #DEDDDE solid 1px;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+.mylist>view:last-child {
+	border-bottom: #DEDDDE solid 0px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+.mylistname {
+	width: calc(100% - 24px);
+}
+.pz{ width: 72px; height: 72px; border-radius: 100px; background:-webkit-linear-gradient(top,rgba(234,234,234,1) 0%,rgba(154,154,154,1) 100%); background:linear-gradient(180deg,rgba(234,234,234,1) 0%,rgba(154,154,154,1) 100%);
+border:3px solid rgba(255,255,255,1);
+}
+
