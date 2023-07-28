@@ -1,7 +1,0 @@
-{
-  "titleNView": false,
-  "navigationBarTitleText": "作品展示",
-  "usingComponents": {
-    "re-turn": "/components/return/return"
-  }
-}

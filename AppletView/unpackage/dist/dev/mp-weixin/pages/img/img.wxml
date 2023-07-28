@@ -1,1 +1,0 @@
-<view class="pf tk center whtl"><view data-event-opts="{{[['tap',[['subscribeMessage',['$event']]]]]}}" bindtap="__e">订阅</view></view>

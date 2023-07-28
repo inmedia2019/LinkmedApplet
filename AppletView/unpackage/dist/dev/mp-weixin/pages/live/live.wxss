@@ -1,9 +1,0 @@
-
-scroll-view {
-	top: 140px;
-	left: 0px;
-	bottom: 0px;
-	right: 0px;
-}
-.listli{height: 360rpx;}
-

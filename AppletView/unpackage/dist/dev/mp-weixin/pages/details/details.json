@@ -1,7 +1,0 @@
-{
-  "titleNView": false,
-  "navigationBarTitleText": "课程详情",
-  "usingComponents": {
-    "re-turn": "/components/return/return"
-  }
-}

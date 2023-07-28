@@ -1,1 +1,0 @@
-<view>{{''+id+''}}<block wx:if="{{aa}}">aaa</block></view>
